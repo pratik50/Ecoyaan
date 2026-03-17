@@ -30,4 +30,4 @@ Open http://localhost:3000
 - Kept components small and focused
 
 ## Deployment
-Vercel: <deploying now>
+Vercel: https://ecoyaan-ecru.vercel.app
